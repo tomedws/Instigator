@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Tomed" APIVersion="9" Name="Instigator" Description="Make people mad" Version="0.5">
+    <Script Name="libs\GeminiTimer-1.0.lua" />
+    <Script Name="Instigator.lua"/>
+    <Form Name="Instigator.xml"/>
+</Addon>
